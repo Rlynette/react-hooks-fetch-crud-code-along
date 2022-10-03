@@ -32,12 +32,6 @@
     },
     {
       "name": "milk",
-      "category": "Dairy",
-      "isInCart": false,
-      "id": 7
-    },
-    {
-      "name": "milk",
       "category": "Produce",
       "isInCart": false,
       "id": 8
@@ -65,6 +59,12 @@
       "category": "Produce",
       "isInCart": false,
       "id": 12
+    },
+    {
+      "name": "honey",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 13
     }
   ]
 }
